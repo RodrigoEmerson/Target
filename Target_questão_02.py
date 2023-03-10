@@ -12,4 +12,4 @@ else:
   print("O número informado não pertence à sequência de Fibonacci.")
 
 
-  
+ 

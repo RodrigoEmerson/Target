@@ -1,9 +1,8 @@
-string = "Hello, World!"
+frase = "Hello, World!"
 
-string_invertida = ""
+def inverter(frase):
+    return frase[::-1]
 
-for caracter in string[::-1]:
-    string_invertida = string_invertida + caracter
-
-print(string_invertida) 
+print(inverter('Hello, World'))
 # !dlroW ,olleH
+

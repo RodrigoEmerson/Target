@@ -33,3 +33,4 @@ print('Valor Mínimo: R$ {:.2f}'.format(valor_minimo))
 print('Valor Máximo: R$ {:.2f}'.format(valor_maximo))
 print('Média Mensal: R$ {:.2f}'.format(media_mensal))
 print('Dias Acima da Média:', dias_acima_media)
+
